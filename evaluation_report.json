@@ -1,0 +1,326 @@
+{
+  "timestamp": "2025-03-24 16:34:10",
+  "total_time": 31.672385215759277,
+  "avg_time_per_sample": 1.5082088197980608,
+  "results": [
+    {
+      "prompt": "How to Make a Sandwich",
+      "generated": "To make a sandwich, first create a slice of bread. Place the slices in a bowl and top with a layer of butter or baking soda. When the bread is baked, add an inch and a half of the butter and bake for 30 minutes. In another step, place on parchment paper and mix the butter and sugar into the batter.",
+      "reference": null,
+      "metrics": {
+        "perplexity": 9.663804054260254,
+        "length": 68,
+        "vocabulary_richness": 0.6470588235294118,
+        "unique_words": 44,
+        "total_words": 68,
+        "bigram_diversity": 0.9701492537313433,
+        "generation_time": 0.4454667568206787,
+        "tokens_per_second": 152.64887661948072
+      }
+    },
+    {
+      "prompt": "Explanation of Quantum Mechanics",
+      "generated": "Quantum mechanics is a type of physics used to explain how an atom interacts with molecules and their energy. It is used in many applications, such as healthcare, transportation systems or even medical diagnostics. Quantum mechanics states that quantum particles interact with each other in a way that can be considered to help them better understand the properties required for their interactions over time. It has also been used to study the chemical processes involved within the structure they are involved in when interacting outside its environment.",
+      "reference": null,
+      "metrics": {
+        "perplexity": 13.974967002868652,
+        "length": 93,
+        "vocabulary_richness": 0.7634408602150538,
+        "unique_words": 71,
+        "total_words": 93,
+        "bigram_diversity": 0.967391304347826,
+        "generation_time": 0.5765228271484375,
+        "tokens_per_second": 161.31191276500013
+      }
+    },
+    {
+      "prompt": "Write a Poem About Spring",
+      "generated": "Spring is the perfect time to get creative! With some of the best ways for your energy and creativity, it’s time you could try something new that can help you relax and recharge your mind.",
+      "reference": null,
+      "metrics": {
+        "perplexity": 14.961287498474121,
+        "length": 38,
+        "vocabulary_richness": 0.868421052631579,
+        "unique_words": 33,
+        "total_words": 38,
+        "bigram_diversity": 1.0,
+        "generation_time": 0.25884580612182617,
+        "tokens_per_second": 146.8055463958927
+      }
+    },
+    {
+      "prompt": "Explain the concept of recursion in programming",
+      "generated": "Recursion in programming is a type-based programming language used to create and process data, while recursive programs typically consist mostly of multiple operations. This type can be used for both data types as well as for loop operations. Recursive programs are often used to solve problems such that they are not complex, but they are more natural and reusable than traditional recursion approaches. Recursive programs may also be used to store data; they are able to make use of these systems in other applications and provide meaningful insights into how data is used during a data flow.",
+      "reference": null,
+      "metrics": {
+        "perplexity": 16.144994735717773,
+        "length": 103,
+        "vocabulary_richness": 0.6601941747572816,
+        "unique_words": 68,
+        "total_words": 103,
+        "bigram_diversity": 0.9117647058823529,
+        "generation_time": 0.6832454204559326,
+        "tokens_per_second": 150.75110189727675
+      }
+    },
+    {
+      "prompt": "How to optimize Python code for better performance",
+      "generated": "Python is a powerful and fast-paced, distributed system of programs that can run on multiple machines simultaneously. It has an iterative interface which allows it to perform complex calculations without any memory or hardware limitations such as memory usage when writing code. This makes it much easier than traditional systems, but it also requires more manual coding. Python is the most efficient programming language, and is built on the principles set out in the previous article.",
+      "reference": null,
+      "metrics": {
+        "perplexity": 12.751866340637207,
+        "length": 83,
+        "vocabulary_richness": 0.8072289156626506,
+        "unique_words": 67,
+        "total_words": 83,
+        "bigram_diversity": 0.9878048780487805,
+        "generation_time": 0.5401935577392578,
+        "tokens_per_second": 153.6486298491969
+      }
+    },
+    {
+      "prompt": "Steps to set up a basic machine learning pipeline",
+      "generated": "Creating an instance of data science could be simple, but it can take weeks or months. The first step is creating a new dataset with a Python script that takes advantage and stores the data in two parallel layers called convolutional neural networks (CNN). This can then be used for classification, classification tasks like natural language classification from which more data can be extracted.",
+      "reference": null,
+      "metrics": {
+        "perplexity": 20.991437911987305,
+        "length": 71,
+        "vocabulary_richness": 0.8028169014084507,
+        "unique_words": 57,
+        "total_words": 71,
+        "bigram_diversity": 1.0,
+        "generation_time": 0.4679880142211914,
+        "tokens_per_second": 151.71328718355235
+      }
+    },
+    {
+      "prompt": "Write a short story about time travel",
+      "generated": "Once upon a time was a young girl named Sarah who had been working as a waitress in the restaurant. She wanted to work for a small-time restaurant called Starry Night and was looking for adventure, so she decided on an adventure. She went shopping for a book that she could read at home, but it became too difficult for her because of her age. One day, when she arrived with one thing in mind - money. She set off on exploring the world and found the books she needed. She stumbled across the store and realized something strange happened. She bought them and sent out a message to everyone else. The message also said \"We need to find you soon\".",
+      "reference": null,
+      "metrics": {
+        "perplexity": 14.186371803283691,
+        "length": 132,
+        "vocabulary_richness": 0.6818181818181818,
+        "unique_words": 90,
+        "total_words": 132,
+        "bigram_diversity": 0.9618320610687023,
+        "generation_time": 0.8284218311309814,
+        "tokens_per_second": 159.33911328699585
+      }
+    },
+    {
+      "prompt": "Create a character description for a fantasy novel",
+      "generated": "A fantasy novel follows two young characters in an unlikely world, and one is a curious young man who discovers the power of adventure. Each time they uncover their hidden treasure it’s difficult to find any way out. The protagonist must use his imagination to solve his problems, as he often does so. He must also be able to overcome obstacles such that he may never realize how powerful his powers are. Once upon a time there was something magical about traveling, discovering the power of adventure could lead him deep into a dark place where he no longer knows what lies beyond them!",
+      "reference": null,
+      "metrics": {
+        "perplexity": 17.90454864501953,
+        "length": 112,
+        "vocabulary_richness": 0.7946428571428571,
+        "unique_words": 89,
+        "total_words": 112,
+        "bigram_diversity": 0.972972972972973,
+        "generation_time": 0.709327220916748,
+        "tokens_per_second": 157.8960974530895
+      }
+    },
+    {
+      "prompt": "Write a scene describing a sunset at the beach",
+      "generated": "The sun slowly disappeared.",
+      "reference": null,
+      "metrics": {
+        "perplexity": 221.54225158691406,
+        "length": 5,
+        "vocabulary_richness": 1.0,
+        "unique_words": 5,
+        "total_words": 5,
+        "bigram_diversity": 1.0,
+        "generation_time": 0.04233670234680176,
+        "tokens_per_second": 118.10083740208252
+      }
+    },
+    {
+      "prompt": "Analyze the impact of social media on modern society",
+      "generated": "Social Media has had significant impacts on everyday life, from being used to create a platform for people to connect with others.  In addition it has also created an opportunity in the way people interact online and communicate with each other. Additionally its ability to inform their friends and family is becoming increasingly popular due to it allowing them more options to share information securely.",
+      "reference": null,
+      "metrics": {
+        "perplexity": 20.219593048095703,
+        "length": 69,
+        "vocabulary_richness": 0.8260869565217391,
+        "unique_words": 57,
+        "total_words": 69,
+        "bigram_diversity": 1.0,
+        "generation_time": 0.43122291564941406,
+        "tokens_per_second": 160.01004931773448
+      }
+    },
+    {
+      "prompt": "Compare and contrast renewable and non-renewable energy sources",
+      "generated": "Renewable energy sources are typically more expensive and require different forms of energy, such as wind or solar power.",
+      "reference": null,
+      "metrics": {
+        "perplexity": 13.22452449798584,
+        "length": 21,
+        "vocabulary_richness": 0.9523809523809523,
+        "unique_words": 20,
+        "total_words": 21,
+        "bigram_diversity": 1.0,
+        "generation_time": 0.14423155784606934,
+        "tokens_per_second": 145.59920390246484
+      }
+    },
+    {
+      "prompt": "Discuss the future of artificial intelligence",
+      "generated": "Artificial Intelligence (AI) will revolutionize AI in several ways. It uses data from human neurons to make decisions, identify patterns and algorithms that enable them to think better and more quickly than humans do. AI can learn through natural language processing and is able to detect obstacles on a scale that requires humans or machines interacting with it all by themselves without using human-like capabilities. The technology could also be used for tasks such as analyzing customer feedback, helping to automate processes and improve efficiency.",
+      "reference": null,
+      "metrics": {
+        "perplexity": 18.76651382446289,
+        "length": 93,
+        "vocabulary_richness": 0.8387096774193549,
+        "unique_words": 78,
+        "total_words": 93,
+        "bigram_diversity": 1.0,
+        "generation_time": 0.5758891105651855,
+        "tokens_per_second": 161.48942269237997
+      }
+    },
+    {
+      "prompt": "Tips for effective time management",
+      "generated": "Here are three tips to effectively manage your online activities with regular breaks. First, you should be planning on getting enough sleep during the day, and second, it’s important that you plan ahead of time using your time wisely.",
+      "reference": null,
+      "metrics": {
+        "perplexity": 16.408681869506836,
+        "length": 44,
+        "vocabulary_richness": 0.8636363636363636,
+        "unique_words": 38,
+        "total_words": 44,
+        "bigram_diversity": 1.0,
+        "generation_time": 0.2913944721221924,
+        "tokens_per_second": 150.9980600508756
+      }
+    },
+    {
+      "prompt": "How to start a small business",
+      "generated": "Start a small business with just one goal - buying and selling food.",
+      "reference": null,
+      "metrics": {
+        "perplexity": 29.04115104675293,
+        "length": 14,
+        "vocabulary_richness": 1.0,
+        "unique_words": 14,
+        "total_words": 14,
+        "bigram_diversity": 1.0,
+        "generation_time": 0.09639716148376465,
+        "tokens_per_second": 145.23249216583935
+      }
+    },
+    {
+      "prompt": "Steps to improve public speaking skills",
+      "generated": "Step 1: Educate yourself about the importance of speaking English. \nStep 2: Learn how to speak French in French and Spanish correctly using French vocabulary, as well as Spanish spoken French.",
+      "reference": null,
+      "metrics": {
+        "perplexity": 17.0119686126709,
+        "length": 34,
+        "vocabulary_richness": 0.7941176470588235,
+        "unique_words": 27,
+        "total_words": 34,
+        "bigram_diversity": 1.0,
+        "generation_time": 0.25116801261901855,
+        "tokens_per_second": 135.36755594579841
+      }
+    },
+    {
+      "prompt": "Explain how black holes work",
+      "generated": "Black holes are a type of dark matter in the center of a universe. They have a mass of about 1,000 times as massive and have an area of 100 times that of a gas. The area of energy is usually used to create energy or make up the majority of all matter. It is important for any object to remain inside a particle's mass even though it can be seen from space.",
+      "reference": null,
+      "metrics": {
+        "perplexity": 13.802227973937988,
+        "length": 79,
+        "vocabulary_richness": 0.6962025316455697,
+        "unique_words": 55,
+        "total_words": 79,
+        "bigram_diversity": 0.9743589743589743,
+        "generation_time": 0.4850926399230957,
+        "tokens_per_second": 162.85549088628574
+      }
+    },
+    {
+      "prompt": "Describe the process of photosynthesis",
+      "generated": "Photosynthesis uses a type of chemical reaction to convert sunlight into light. When sunlight enters the atmosphere, it converts energy from the molecules to gases, which are then diffused in a liquid form in an oxygen cycle. The reaction is repeated throughout the day and the process takes longer than required.",
+      "reference": null,
+      "metrics": {
+        "perplexity": 14.598917007446289,
+        "length": 56,
+        "vocabulary_richness": 0.7857142857142857,
+        "unique_words": 44,
+        "total_words": 56,
+        "bigram_diversity": 1.0,
+        "generation_time": 0.35772180557250977,
+        "tokens_per_second": 156.54622985695758
+      }
+    },
+    {
+      "prompt": "How does the human immune system function",
+      "generated": "The human immune systems function by releasing a variety of invaders into the body. They are responsible for several functions including antivirus, antiviral and antivirals; genetic engineering techniques such as gene editing to prevent diseases from developing; natural language processing (ENV) technology that allows the immune system's immune system responses in response to certain conditions or diseases; and natural language processing techniques such Assembling proteins and molecules; immunological processes suchasies, viruses like measles-mumps-rubella virus, pertussis bacteria, and other pathogens.",
+      "reference": null,
+      "metrics": {
+        "perplexity": 18.869483947753906,
+        "length": 87,
+        "vocabulary_richness": 0.8045977011494253,
+        "unique_words": 70,
+        "total_words": 87,
+        "bigram_diversity": 0.9651162790697675,
+        "generation_time": 0.6684136390686035,
+        "tokens_per_second": 130.15892392804784
+      }
+    },
+    {
+      "prompt": "How to debug a slow running computer",
+      "generated": "A fast running computer is capable of running at least one program each minute in 25 minutes. This can be done by adjusting the operating system's speed, which means that it may be faster than traditional processors.",
+      "reference": null,
+      "metrics": {
+        "perplexity": 16.156696319580078,
+        "length": 40,
+        "vocabulary_richness": 0.925,
+        "unique_words": 37,
+        "total_words": 40,
+        "bigram_diversity": 1.0,
+        "generation_time": 0.25649189949035645,
+        "tokens_per_second": 155.95034416088419
+      }
+    },
+    {
+      "prompt": "Ways to reduce stress and anxiety",
+      "generated": "Here are five strategies for reducing stress: 1. Exercise regularly and practice regular exercise regularly\n2) Exercise regularly and do not procrastinate",
+      "reference": null,
+      "metrics": {
+        "perplexity": 30.63623046875,
+        "length": 24,
+        "vocabulary_richness": 0.7916666666666666,
+        "unique_words": 19,
+        "total_words": 24,
+        "bigram_diversity": 0.8695652173913043,
+        "generation_time": 0.17949891090393066,
+        "tokens_per_second": 133.70554661941657
+      }
+    },
+    {
+      "prompt": "Solutions for climate change",
+      "generated": "Solutions to climate change include investing in clean energy sources such as solar and wind, green energy, and biotechnology.",
+      "reference": null,
+      "metrics": {
+        "perplexity": 11.043164253234863,
+        "length": 22,
+        "vocabulary_richness": 0.8636363636363636,
+        "unique_words": 19,
+        "total_words": 22,
+        "bigram_diversity": 1.0,
+        "generation_time": 0.15047192573547363,
+        "tokens_per_second": 146.2066753812636
+      }
+    }
+  ],
+  "model_config": {
+    "model_name": "distilgpt2",
+    "device": "cuda:0"
+  }
+}
